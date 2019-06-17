@@ -1,3 +1,5 @@
+![Image of Elite](https://github.com/gen-ass/elite-electrical/blob/master/Elite-Electrical-Services.jpg)
+
 # Elite Electrical Services
 Site was created for client who wanted to connect with clients through an online site. It was necessary for the client to have a form that submit information when a user requested it. The site showcases the type of services the supplier offers.  
 
